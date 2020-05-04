@@ -1,0 +1,12 @@
+The type of the file system is RAW.
+The new file system is NTFS.
+QuickFormatting 512M
+Creating file system structures.
+Format complete.                         
+     512.0 MB total disk space.
+     507.1 MB are available.
+Creating device...
+Created device 10: Z: -> Image in memory
+Formatting disk Z:...
+Notifying applications...
+Done.
